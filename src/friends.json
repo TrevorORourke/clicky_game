@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Black Widow",
+    "image": "https://bookriot.com/wp-content/uploads/2019/08/black-widow-image.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "Captain America",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/Chris-Evans-as-Captain-America-in-the-Quantum-Realm.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Iron Man",
+    "image": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2019/05/avengersrdj-920x584.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "Hulk",
+    "image": "https://i.ytimg.com/vi/56hu32qAOOM/maxresdefault.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "Ant Man",
+    "image": "https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2015/04/ant-man_trailer_screengrab_2_h_2015.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "Black Panther",
+    "image": "https://miro.medium.com/max/3840/1*u5gmZdfPO5htzPY9Cncqlg.jpeg"
+ 
+  },
+  {
+    "id": 7,
+    "name": "Captain Marvel",
+    "image": "https://www.pride.com/sites/www.pride.com/files/2019/09/03/captain-marvel-2-queer-lgbtq-superhero.jpg"
+
+  },
+  {
+    "id": 8,
+    "name": "Thanos",
+    "image": "https://www.sideshow.com/storage/product-images/903429/thanos_marvel_feature.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "Scarlet Witch",
+    "image": "https://cdn3.tvweb.com/i/article/ypldnZlKGSXFw1UbhOGqEBEZ71D6JX/798:50/Vision-Scarlet-Witch-Tv-Series-Disney-Streaming.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "Spider Man",
+    "image": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2019/07/spider-man.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "Dr Strange",
+    "image": "https://cnet1.cbsistatic.com/img/wiDWYZ6IG6B7EYUhEbNFB-1Cx04=/980x551/2016/10/24/4c7b8f36-6f0e-427b-9884-59e1f7209591/strange1.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "Star Lord",
+    "image": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2019/08/GIIANNNNS_GALAXY_AWESOME_MIX_VOLUME_2_REVEALED_1000-920x584.jpg"
+
+  }
+]
